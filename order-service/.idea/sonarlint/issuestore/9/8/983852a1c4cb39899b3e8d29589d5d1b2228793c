@@ -1,0 +1,6 @@
+
+_
+java:S6813
+"BRemove this field injection and use constructor injection instead.(êæÄÞ8ú¾’®»2
+S
+java:S1068"1Remove this unused "kafkaTemplate" private field.(ú’‹òÿÿÿÿÿ8þ¾’®»2

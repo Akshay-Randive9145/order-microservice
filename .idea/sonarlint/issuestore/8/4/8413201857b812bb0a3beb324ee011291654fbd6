@@ -1,0 +1,7 @@
+
+F
+java:S2629"$Invoke method(s) only conditionally.(ù‚‹Éùÿÿÿÿ8èŸ‚†½2
+[
+java:S1128">Remove this unused import 'com.project.basedomains.dto.Order'.(Èš½Ù8ùŸ‚†½2
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8ùŸ‚†½2
